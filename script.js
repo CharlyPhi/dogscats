@@ -2,8 +2,8 @@ const dogUrl = "https://dog.ceo/api/breed/";
 const catUrl = "https://api.thecatapi.com/v1/images/search?breed_ids="
 const dogs = "";
 const cats = "";
-let audio1 = new Audio("/sounds/mixkit-armhole-farting-3051.wav");
-let audio2 = new Audio("/sounds/VOXScrm_Wilhelm scream (ID 0477)_BSB.wav");
+let audio1 = new Audio("sounds/mixkit-armhole-farting-3051.wav");
+let audio2 = new Audio("sounds/VOXScrm_Wilhelm scream (ID 0477)_BSB.wav");
 // Doggo Fetcher
 
 const fetchDogos = async () => {
