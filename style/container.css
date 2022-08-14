@@ -1,0 +1,38 @@
+h1 {
+  font-family: Oleo Script Swash Caps;
+}
+
+span {
+  color: white;
+}
+
+h2 {
+  font-size: medium;
+}
+
+.container2 {
+  display: flex;
+  justify-content: space-around;
+  height: 700px;
+  width: 100%;
+}
+
+.chimeras {
+  display: flex;
+  justify-content: space-around;
+}
+
+.chimeras img {
+  height: 11rem;
+  width: 13rem;
+  margin-bottom: 1rem;
+  box-shadow: 10px 5px 5px rgb(0, 0, 0);
+}
+
+.chimeras #cat_turtle:hover{
+  box-shadow: 10px 5px 5px rgb(31, 6, 197);
+}
+
+#dog_turtle:hover{
+  box-shadow: 10px 5px 5px rgb(16, 134, 12);
+}

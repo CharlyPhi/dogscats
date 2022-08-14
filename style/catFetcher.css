@@ -1,0 +1,11 @@
+#chat {
+  display: flex;
+  max-height: 300px;
+  text-align: left;
+  margin: 1.5rem;
+}
+
+#chat img {
+  width: 350px;
+  height: 250px;
+}
